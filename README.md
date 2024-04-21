@@ -1,6 +1,6 @@
 # Projektname
 
-Kurze Beschreibung des Projekts.
+Dies ist ein Uniprojekt für das Fach Online-Marketing, bei dem eine Website erstellt werden muss.
 
 ## Inhaltsverzeichnis
 
