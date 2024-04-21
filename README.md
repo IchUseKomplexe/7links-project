@@ -1,6 +1,7 @@
 # Projektname
 
 Dies ist ein Uniprojekt für das Fach Online-Marketing, bei dem eine Website erstellt werden muss.
+Domain: Https://uni.kuzina.email
 
 ## Inhaltsverzeichnis
 
