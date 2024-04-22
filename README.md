@@ -23,10 +23,12 @@ Das momentane Marketingkonzept von 7links fokussiert sich auf die Ziele, bestehe
 
 Es sieht so aus, als könnte 7links bald Schwierigkeiten haben, mit dem industriell-technologischen Fortschritt Schritt zu halten. Ohne neue Kunden und mit der Möglichkeit, dass bestehende Kunden irgendwann abspringen, stehen sie vor einer ziemlich harten Zeit.
 
-Ohne den Zugewinn neuer Kunden und mit der Möglichkeit, dass bestehende Kunden irgendwann abspringen, könnten sie vor Herausforderungen stehen.
+7links positioniert sich innerhalb der Nische von Kameras und Sicherheit, dennoch sind sie selbst in diesem spezialisierten Bereich zu breitflächig und veraltet. 
 
-Innerhalb der Nische von Kameras und Sicherheit positioniert sich 7links, aber selbst in diesem spezialisierten Bereich könnte das Unternehmen bald Schwierigkeiten haben. 
+Das UX bezieht sich auf eine ältere Zielgruppe und speziell Stammkunden. Das Design ist sehr veraltet und vermutlich seit Erstellung nicht mehr verändert worden.
 
+Eine Platzierung im Markt der Hausautomation könnte 7links die Möglichkeit bieten, in eine neue Nische einzutreten. Die Nische der Hausautomation beinhaltet Haussicherheit, Konnektivität und Effizienz. 
+Dementsprechend kann 7links seine Bestandskunden in das neue Konzept einbinden und durch das neue Design und Marketingkonzept neue Kunden gewinnen.
 ## Verwendung
 
 Anleitungen zur Verwendung des Projekts und Beispiele.
