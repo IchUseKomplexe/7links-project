@@ -2,6 +2,7 @@
 
 Dies ist ein Uniprojekt für das Fach Online-Marketing, bei dem eine Website erstellt werden muss.
 Domain: Https://uni.kuzina.email
+Farbpalette: https://miro.com/app/board/uXjVKRHX6us=/
 
 ## Inhaltsverzeichnis
 
